@@ -26,7 +26,7 @@ Content-Type: application/json
 GET http://localhost:8080/
 
 ### Get the message by its id
-GET http://localhost:8080/01f5b3a3-0c51-4030-8866-796d9b646e2b
+GET http://localhost:8080/bac0d830-32d4-46d9-a44b-a4863cc41dc2
 
 ### Get the message by its id, NOT FOUND
 GET http://localhost:8080/fakeIDxxxx
